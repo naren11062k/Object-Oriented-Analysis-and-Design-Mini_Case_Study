@@ -14,5 +14,5 @@
   <li>Activity Diagram</li> 
 </ul>
 
-**Class Diagram Code** <br />
+**Code** <br />
 - JAVA
